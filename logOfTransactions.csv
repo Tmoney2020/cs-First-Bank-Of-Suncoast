@@ -1,0 +1,5 @@
+Deposit,Withdraw,Type,TransactionType
+500,0,savings,deposit
+1000,0,checking,deposit
+0,100,savings,withdraw
+0,250,checking,withdraw
